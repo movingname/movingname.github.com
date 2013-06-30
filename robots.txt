@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://movingname.github.io/sitemap.xml 
